@@ -1,4 +1,4 @@
-DOCKER_IMAGE := mgcrea/node
+DOCKER_IMAGE := carlipa/node
 IMAGE_VERSION := 6.9.1
 BASE_IMAGE := ubuntu:16.04
 
